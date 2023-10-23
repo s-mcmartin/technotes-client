@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://your-image-url.com/technotes_logo.png" alt="TechNotes Logo" width="200">
 
 # TechNotes - Your Role-Based Employee Note Keeping App
 
@@ -26,7 +25,7 @@ Welcome to TechNotes, your employee note-keeping app with a role-based access sy
 
 ## Original Project by Dave Gray 🙌
 
-TechNotes builds upon the creative work of Dave Gray, extending its functionality for use within organizational settings.
+TechNotes builds upon the creative work of Dave Gray and is a project for learning purposes.
 
 ## Getting Started 🛠️
 
